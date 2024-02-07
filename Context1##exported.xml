@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Configuration:
+<?xml version='1.0'?>
+<STEP-ProductInformation ResolveInlineRefs="true">
+<Entities />
+<Products />
+</STEP-ProductInformation>
+Export from DIGH_Hierarchy
+Classifications All
+Products "100852"
+Assets All
+
+Exported by domain exporter.
+-->
+<STEP-ProductInformation ExportTime="2024-02-07 15:53:30" ExportContext="Context1" ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+  <Products>
+    <Product ID="100852" UserTypeID="DIGH" ParentID="Product hierarchy root">
+      <Name>DIGH_Hierarchy</Name>
+      <AttributeLink AttributeID="MarketingBrand"/>
+      <AttributeLink AttributeID="Marketing"/>
+    </Product>
+  </Products>
+</STEP-ProductInformation>
