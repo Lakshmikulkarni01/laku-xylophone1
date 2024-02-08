@@ -12,7 +12,7 @@ Assets All
 
 Exported by domain exporter.
 -->
-<STEP-ProductInformation ExportTime="2024-02-08 09:31:06" ExportContext="Context1" ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
+<STEP-ProductInformation ExportTime="2024-02-08 09:32:06" ExportContext="Context1" ContextID="Context1" WorkspaceID="Main" UseContextLocale="false">
   <Products>
     <Product ID="100852" UserTypeID="DIGH" ParentID="Product hierarchy root">
       <Name>DIGH_Hierarchy</Name>
